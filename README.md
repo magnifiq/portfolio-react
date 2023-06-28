@@ -6,3 +6,6 @@
 
 --There are used React and JavaScript
 
+The demonstration of my portfolio: https://github.com/magnifiq/portfolio-react/assets/124519076/f485d4d5-2699-4846-88a6-4febdd14b446
+
+
